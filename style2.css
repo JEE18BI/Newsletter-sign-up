@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(38, 40, 66);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#container2{
+
+    background-color: white;
+    border-color: black;
+    border-width: 10px;
+   width:410px;
+   height:400px;
+   border-radius: 20px;
+   align-items: center;
+   align-content: center;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   
+  
+}
+#success-image{
+    position:relative;
+    margin-left:80px;
+    margin-top:40px;
+    height:50px;
+
+    
+   
+}
+#thanks{
+    margin-left:50px;
+   
+}
+#p2{
+    font-size: 14px;
+    margin-left:20px;
+  margin-bottom: 20px;
+}
+#email{
+    font-weight: bold;
+}
+#button-2{
+    background-color: rgb(11, 11, 52);
+    color:white;
+    width: 300px;
+    height:50px;
+    margin-left: 10px;
+    cursor:pointer;
+    border-radius:10px;
+}
+#h1{
+    font-size:40px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
